@@ -3,6 +3,7 @@
 """
 An edit by me on the CodeWars Kata made by jolaf.
 https://www.codewars.com/kata/54b724efac3d5402db00065e/train/python
+
 """
 
 
